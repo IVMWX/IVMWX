@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Привет, я IVMWX.
 
-<!--
-**IVMWX/IVMWX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Preview](img/preview.gif)
 
-Here are some ideas to get you started:
+UX/UI дизайнер с уклоном в продуктовый дизайн.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Мне искренне нравится проводить исследования, понимать боли пользователей  
+и превращать их в функциональные и эстетически красивое решение.
+
+## 🚀 Сейчас
+
+— развиваюсь в продуктовый дизайн  
+— проектирую интерфейсы и довожу их до реализации  
+— изучаю фронтенд (HTML / CSS / JS)
+
+## 🧩 Проекты
+
+🔗 [Мой сайт-портфолио](https://ivmwx.github.io/portfolio/)
+
+## 💻 Программы
+
+— Figma  
+— Adobe Photoshop  
+— Adobe illustrator  
+— Notion  
+— Miro  
+— Framer  
+— Tilda  
+
+## 🛠 Навыки
+
+— CJM  
+— User Flow / Task Flow  
+— Анализ конкурентов  
+— Формировапние и тестирование гипотез  
+— Исследования  
+— Wireframing  
+— Prototyping  
+— Design Systems  
+
+## 📬 Контакты
+
+Telegram: https://t.me/Ivmwx_official  
+LinkedIn: https://www.linkedin.com/in/ivmwx/  
+
+## 🌐 Соц. сети
+
+Behance: https://www.behance.net/ivmwx  
+Telegram channel: https://t.me/IVMWX_DESIGN  
